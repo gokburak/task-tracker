@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color:bisque;
+ width: 100%;
+}
+.App{
+  margin: 30px auto;
+  /* height:600px; */
+  width: 400px;
+  background-color: #ea007f;
+  text-align: center;
+}
+.btn{
+margin-bottom: 10px;
+}
